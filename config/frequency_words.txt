@@ -240,6 +240,9 @@
 /光伏|太阳能/ => 光伏
 核能
 能源
+黄金
+
+/ChatGPT|Gemini|Gork|豆包|deepseek|minimax|seedance|qwen|GLM/ => LLM
 
 /自动驾驶|无人驾驶|智驾/ => 自动驾驶
 
